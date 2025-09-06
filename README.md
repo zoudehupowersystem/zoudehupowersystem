@@ -16,7 +16,7 @@
 | [**pySCD**](https://github.com/zoudehupowersystem/pySCD) | 变电站SCD文件解析 | Python | 🟢 活跃维护 |
 | [**GooseSVScope**] | Goose/SV 调试器 | C++ | 🔄 规划中 |
 
-# Welcome to the Power System Open‑Source Ecosystem (PSOE) Established by Zou Dehu!
+# Welcome to the Open Power System Engineering Network (OPSEN) Established by Zou Dehu!
 
 This is an open-source ecosystem focused on **power system modeling, simulation, analysis, and applications**.  
 It covers multiple areas, including **power flow calculation, transient simulation, CPS simulation, knowledge graphs, IEC61850 debugging**, and more.
