@@ -13,3 +13,5 @@
 | [**ADN-CPSim**](https://github.com/zoudehupowersystem/ADN-CPSim) | 事件驱动的电力系统CPS仿真 | C++ | 🟢 活跃维护 |
 | [**EMTP_demo**](https://github.com/zoudehupowersystem/EMTP_demo) | 电磁暂态仿真 | C++ | 🟢 活跃维护 |
 | [**Power_RAG**](https://github.com/zoudehupowersystem/Power_RAG) | 电力系统知识问答 | Python | 🟢 活跃维护 |
+| [**pySCD**](https://github.com/zoudehupowersystem/pySCD) | 变电站SCD文件解析 | Python | 🟢 活跃维护 |
+| [**GooseSVScope**] | Goose/SV 调试器 | C++ | 🔄 规划中 |
