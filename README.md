@@ -7,6 +7,7 @@
 | 项目 | 功能 | 语言 | 状态 |
 |------|------|------|------|
 | [**ZRTDB**](https://github.com/zoudehupowersystem/ZRTDB)| 零拷贝实时数据总线 ZRTDB | C++/Rust | 🟢 发布  |
+| [**OPSEN-PowerTool**](https://github.com/zoudehupowersystem/power_tool)| 电力系统实用工具 | Python | 🟢 发布  |
 | [**OPEN-MODEL**]| 电力系统基础模型与拓扑分析 | C++ | 🔄 规划中  |
 | [**OPSEN-FLOW**] | 电力系统潮流计算 | C++ | 🔄 规划中 |
 | [**OPSEN-CPS**](https://github.com/zoudehupowersystem/ADN-CPSim) | 事件驱动的电力系统CPS仿真 | C++ | 🔄 规划中  |
