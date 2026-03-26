@@ -13,5 +13,5 @@
 | [**OPSEN-FLOW**] | 电力系统潮流计算 | C++ | 🔄 规划中 |
 | [**OPSEN-EMTP**] | 电磁暂态仿真 | Rust | 🔄 规划中 |
 | [**OPSEN-SCD**](https://github.com/zoudehupowersystem/pySCD) | 变电站SCD文件解析 | Python | 🔄 规划中 |
-| [**OPSEN-GooseSVScope**] | Goose/SV 调试器 | C++ | 🔄 规划中 |
+| [**OPSEN-GridTrace**] | 电力系统通信协议调试器 | Rust | 🔄 规划中 |
 
