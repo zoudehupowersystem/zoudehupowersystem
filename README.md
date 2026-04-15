@@ -1,5 +1,6 @@
-Welcome to OPSEN — an integrated open-source ecosystem for power system computation, simulation, and debugging, built by Zou Dehu!
-OPSEN (Open Power System Engineering) will continue to expand with more practical tools and applications, with the long-term goal of fully supporting power system operation planning and education.
+Welcome to **OPSEN** — an integrated open-source ecosystem for power system computation, simulation, and debugging, built by Zou Dehu!
+
+**OPSEN (Open Power System Engineering)** will continue to expand with more practical tools and applications, with the long-term goal of fully supporting power system operation planning and education.
 
 ## 📦 Project Overview
 
