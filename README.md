@@ -1,3 +1,12 @@
+# Dehu Zou · 邹德虎
+
+Power System R&D Architect · Real-Time EMT · Grid Dispatch Automation · Industrial Software
+
+**Personal website / 个人主页:** https://zoudehupowersystem.github.io/  
+**ORCID:** https://orcid.org/0000-0002-3359-0145
+
+---
+
 Welcome to **OPSEN** — an integrated open-source ecosystem for power system computation, simulation, and debugging, built by Zou Dehu!
 
 **OPSEN (Open Power System Engineering)** will continue to expand with more practical tools and applications, with the long-term goal of fully supporting power system operation planning and education.
